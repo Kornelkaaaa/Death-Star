@@ -1,12 +1,4 @@
-/**
- * A test main method for CSC14400 Lab 5. Note that this method
- * is **far** from an
- * exhaustive test. It is up to you to come up with a more
- * exhaustive test.
- *
- * @author sab, tlj
- * @version SP 2024
- */
+
 public class DeathStarDriver {
     public static void main(String[] args) {
         DeathStar takeOne = new DeathStar(100, 200);
