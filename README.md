@@ -15,10 +15,10 @@ The DeathStar class represents an instance of the Death Star. It has the followi
 - firePrimaryWeapon(int energyNeededForFiringDeathStar): Method to fire the Death Star's primary weapon by consuming energy from its offensive power.
 - toString(): Overrides the toString() method to provide a string representation of the Death Star object.
 
-#DeathStarDriver
+# DeathStarDriver
 The DeathStarDriver class contains the main method to test the functionality of the DeathStar class. It demonstrates various scenarios such as initializing Death Star objects, checking defensive capability and offensive power, attacking and defending, and printing the status of Death Stars.
 
-#Usage
+# Usage
 #To use this project:
 
 1. Compile both DeathStar.java and DeathStarDriver.java files.
